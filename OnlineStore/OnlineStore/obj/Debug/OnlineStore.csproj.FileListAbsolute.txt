@@ -1,0 +1,11 @@
+C:\online-store\OnlineStore\OnlineStore\bin\Debug\OnlineStore.exe.config
+C:\online-store\OnlineStore\OnlineStore\bin\Debug\OnlineStore.exe
+C:\online-store\OnlineStore\OnlineStore\bin\Debug\OnlineStore.pdb
+C:\online-store\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.AssemblyReference.cache
+C:\online-store\OnlineStore\OnlineStore\obj\Debug\OnlineStore.Form1.resources
+C:\online-store\OnlineStore\OnlineStore\obj\Debug\OnlineStore.Properties.Resources.resources
+C:\online-store\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+C:\online-store\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+C:\online-store\OnlineStore\OnlineStore\obj\Debug\OnlineStore.exe
+C:\online-store\OnlineStore\OnlineStore\obj\Debug\OnlineStore.pdb
+C:\online-store\OnlineStore\OnlineStore\obj\Debug\OnlineStore.exe.config
